@@ -1,0 +1,13 @@
+body {
+  padding-top:70px;
+}
+
+#sm-logo{
+  height:50px;
+  width:50px;
+  margin-top:-15px;
+}
+
+#navbar-custom {
+  background-color: #f1f1f1;
+}
