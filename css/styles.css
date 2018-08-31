@@ -11,3 +11,34 @@ body {
 #navbar-custom {
   background-color: #f1f1f1;
 }
+
+.noborder {
+  border-style:none;
+}
+.post-content{
+  background:none repeat scroll 0 0 #FFffff;
+  opacity:0.7;
+  margin:0 auto;
+  margin-top:-90px;
+  text-align:center;
+  position:relative;
+  width:50%;
+  border-radius:30px;
+}
+
+.thumbnail {
+  margin:0 auto;
+  text-align: center;
+}
+
+.wrapper {
+  text-align:center;
+}
+
+.strongsubheader {
+  color:#000;
+  font-weight:bolder;
+  opacity:1.0;
+  text-align:left;
+  width:auto;
+}
